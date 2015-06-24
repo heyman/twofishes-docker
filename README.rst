@@ -13,7 +13,7 @@ docker run -d heyman/twofishes
 Instructions to build
 ---------------------
 
-Bothe the Twofishes binary jar file, and the prebuilt index files, needs to be downloaded 
+Both the Twofishes binary jar file, and the prebuilt index files, needs to be downloaded 
 and added to the same directory as the Dockerfile. The prebuilt index files also needs to 
 be unzipped first.
 
